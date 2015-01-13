@@ -1,0 +1,1060 @@
+2015-01-11 16:42:17,325 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Gestion:Project_Gestion:0.0.1-SNAPSHOT @ E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\pom.xml.
+2015-01-11 16:42:18,925 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:42:18,940 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 16:42:18,947 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:42:18,967 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 16:43:17,268 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:43:17,277 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 16:43:17,282 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:43:17,290 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 17:20:13,410 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:20:13,488 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 17:20:13,494 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:20:13,515 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 17:51:29,814 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-11 17:51:30,027 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:13340
+2015-01-11 17:56:14,043 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:56:14,052 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 17:56:14,056 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:56:14,065 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 17:57:59,760 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:57:59,771 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 17:57:59,775 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:57:59,784 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 17:58:49,383 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:58:49,391 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 17:58:49,397 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:58:49,406 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 17:59:35,481 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:59:35,517 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 17:59:35,521 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:59:35,530 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 17:59:55,334 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:59:55,342 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 17:59:55,348 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:59:55,359 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 18:00:11,658 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 18:00:11,666 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 18:00:11,670 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 18:00:11,678 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 18:03:37,955 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 18:03:37,964 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 18:03:37,970 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 18:03:37,979 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 18:06:14,031 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-11 18:22:28,427 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-11 18:22:28,525 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:13837
+2015-01-11 18:34:52,427 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-11 18:35:41,719 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 18:35:41,740 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 18:35:41,746 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 18:35:41,758 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 18:45:58,930 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 18:45:59,023 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 18:45:59,026 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 18:45:59,029 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 18:51:16,030 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-11 18:51:16,121 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:14740
+2015-01-11 19:05:08,408 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 19:05:08,495 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 19:05:08,499 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 19:05:08,508 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 20:05:47,294 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-11 20:10:50,263 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:10:50,280 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 20:10:50,288 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:10:50,297 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 20:13:49,821 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:13:49,855 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 20:13:49,882 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:13:49,910 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 20:13:50,243 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:13:50,257 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 20:13:50,265 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:13:50,287 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 20:17:18,283 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-11 20:17:18,456 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:16185
+2015-01-11 20:18:37,883 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-11 20:21:13,109 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:21:13,122 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 20:21:13,126 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:21:13,132 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 20:21:21,133 [Worker-5] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Tester (1) references non-existing project Project_Gestion.
+org.eclipse.core.runtime.CoreException: Launch configuration Tester (1) references non-existing project Project_Gestion.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.200.v20140901-1234.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.200.v20140901-1234.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20140819-0835.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.100.v20140821-1523.jar:na]
+2015-01-11 20:21:21,146 [Worker-5] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Tester (1) references non-existing project Project_Gestion.
+org.eclipse.core.runtime.CoreException: Launch configuration Tester (1) references non-existing project Project_Gestion.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.200.v20140901-1234.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.200.v20140901-1234.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20140819-0835.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.100.v20140821-1523.jar:na]
+2015-01-11 20:21:21,178 [Worker-5] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Tester (1) references non-existing project Project_Gestion.
+org.eclipse.core.runtime.CoreException: Launch configuration Tester (1) references non-existing project Project_Gestion.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.200.v20140901-1234.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.200.v20140901-1234.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20140819-0835.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2162) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.100.v20140821-1523.jar:na]
+2015-01-11 20:21:55,479 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Gestion:Project_Gestion:0.0.1-SNAPSHOT @ E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\pom.xml.
+2015-01-11 20:21:55,489 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Gestion:Project_Gestion:0.0.1-SNAPSHOT @ E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\pom.xml.
+2015-01-11 20:21:56,179 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:21:56,183 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 20:21:56,184 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:21:56,189 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 20:21:57,476 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Gestion:Project_Gestion:0.0.1-SNAPSHOT @ E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\pom.xml.
+2015-01-11 20:22:42,361 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:22:42,375 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 20:22:42,382 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:22:42,394 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 20:22:57,187 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:22:57,198 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 20:22:57,204 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 20:22:57,213 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 20:27:17,491 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-11 20:27:17,576 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:16518
+2015-01-11 20:38:42,270 [qtp1686476035-112] WARN  org.eclipse.jetty.server.Response - Committed before 503 Servlet not initialized
+2015-01-11 20:38:42,297 [qtp1686476035-112] WARN  o.e.jetty.servlet.ServletHandler - /wse/wsdl/actions/InvokeWSDLSOAPOperationFormActionJSP.jsp
+java.lang.IllegalStateException: Committed
+	at org.eclipse.jetty.server.Response.resetBuffer(Response.java:1154) ~[org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.Response.sendError(Response.java:317) ~[org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:421) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848) ~[javax.servlet_3.0.0.v201112011016.jar:na]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:155) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848) ~[javax.servlet_3.0.0.v201112011016.jar:na]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:76) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848) ~[javax.servlet_3.0.0.v201112011016.jar:na]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360) ~[org.eclipse.equinox.http.jetty_3.0.200.v20131021-1843.jar:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684) ~[org.eclipse.jetty.servlet_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:501) [org.eclipse.jetty.servlet_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:428) [org.eclipse.jetty.servlet_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.Server.handle(Server.java:370) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.AbstractHttpConnection.content(AbstractHttpConnection.java:982) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:1043) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:865) [org.eclipse.jetty.http_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:240) [org.eclipse.jetty.http_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82) [org.eclipse.jetty.server_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:667) [org.eclipse.jetty.io_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52) [org.eclipse.jetty.io_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608) [org.eclipse.jetty.util_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543) [org.eclipse.jetty.util_8.1.14.v20131031.jar:8.1.14.v20131031]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+2015-01-11 20:38:42,425 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-11 23:08:49,581 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:08:49,655 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 23:08:49,661 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:08:49,669 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 23:34:31,805 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:34:31,825 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 23:34:31,832 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:34:31,842 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 23:51:44,983 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:51:44,993 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 23:51:44,997 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:51:45,005 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 23:52:21,485 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:52:21,494 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 23:52:21,498 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:52:21,508 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 23:53:35,364 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:53:35,372 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 23:53:35,377 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:53:35,385 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 23:54:31,040 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:54:31,051 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 23:54:31,055 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:54:31,063 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 23:54:45,335 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:54:45,344 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 23:54:45,350 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:54:45,358 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-11 23:55:01,373 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:55:01,382 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-11 23:55:01,386 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 23:55:01,394 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-12 00:14:18,822 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-12 00:14:18,972 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:19181
+2015-01-12 00:18:34,453 [Worker-49] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration Ode v1.x Server at localhost at file:/E:/Code/Java%20Learning/M2%20Codes/WebService/.metadata/.plugins/org.eclipse.debug.core/.launches/Ode%20v1.x%20Server%20at%20localhost.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration Ode v1.x Server at localhost at file:/E:/Code/Java%20Learning/M2%20Codes/WebService/.metadata/.plugins/org.eclipse.debug.core/.launches/Ode%20v1.x%20Server%20at%20localhost.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:926) ~[org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1396) ~[org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:470) ~[org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:640) ~[org.eclipse.debug.core_3.10.0.v20140807-0848.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:142) [org.eclipse.m2e.launching_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:85) [org.eclipse.m2e.launching_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:130) [org.eclipse.debug.ui_3.10.100.v20140902-1855.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.disconnect(ConsoleLineNotifier.java:75) [org.eclipse.debug.ui_3.10.100.v20140902-1855.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$CompiledPatternMatchListener.dispose(ConsolePatternMatcher.java:198) [org.eclipse.ui.console_3.6.0.v20140812-1255.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher.disconnect(ConsolePatternMatcher.java:260) [org.eclipse.ui.console_3.6.0.v20140812-1255.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:164) [org.eclipse.ui.console_3.6.0.v20140812-1255.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.100.v20140821-1523.jar:na]
+2015-01-12 01:14:47,042 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-12 01:17:18,326 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 01:17:18,344 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-12 01:17:18,350 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 01:17:18,359 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-12 10:41:32,475 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 10:41:32,547 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-12 10:41:32,553 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 10:41:32,563 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-12 10:49:12,176 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-12 10:49:12,327 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:25899
+2015-01-12 10:52:36,724 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-12 11:24:51,741 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 11:24:51,795 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-12 11:24:51,804 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 11:24:51,814 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-12 11:26:43,806 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-12 11:26:43,955 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:28177
+2015-01-12 12:12:03,557 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-12 12:12:41,719 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 12:12:41,729 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-12 12:12:41,733 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 12:12:41,738 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-12 12:32:53,892 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 12:32:53,900 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-12 12:32:53,902 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 12:32:53,906 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-12 12:38:23,510 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-12 12:38:23,601 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:28767
+2015-01-12 12:45:31,932 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-12 12:46:05,781 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 12:46:05,793 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-12 12:46:05,797 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 12:46:05,802 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-12 12:57:08,030 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+org.eclipse.jdt.core.JavaModelException: bin/com/tmax [in Project_Gestion] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:544) ~[na:na]
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:247) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:557) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:294) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:280) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:486) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceAttachmentPath(PackageFragmentRoot.java:600) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:52) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:77) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:86) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:135) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:357) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:308) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$17(WorkbenchPage.java:290) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:212) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:236) [org.eclipse.e4.ui.workbench_1.2.0.v20140905-1352.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20140819-0835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:233) [org.eclipse.e4.ui.workbench_1.2.0.v20140905-1352.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:670) [org.eclipse.e4.ui.workbench_1.2.0.v20140905-1352.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:601) [org.eclipse.e4.ui.workbench_1.2.0.v20140905-1352.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:596) [org.eclipse.e4.ui.workbench_1.2.0.v20140905-1352.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3244) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$23(WorkbenchPage.java:3151) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$9.run(WorkbenchPage.java:3133) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.104.0.v20140916-1147.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3128) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3092) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3082) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:373) [org.eclipse.jdt.ui_3.10.100.v20141027-2358.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:179) [org.eclipse.jdt.ui_3.10.100.v20141027-2358.jar:na]
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:268) [org.eclipse.jdt.ui_3.10.100.v20141027-2358.jar:na]
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:233) [org.eclipse.jdt.ui_3.10.100.v20141027-2358.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:275) [org.eclipse.jdt.ui_3.10.100.v20141027-2358.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:251) [org.eclipse.jdt.ui_3.10.100.v20141027-2358.jar:na]
+	at org.eclipse.jdt.internal.ui.navigator.OpenAndExpand.run(OpenAndExpand.java:50) [org.eclipse.jdt.ui_3.10.100.v20141027-2358.jar:na]
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:229) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.navigator.CommonNavigatorManager$2.open(CommonNavigatorManager.java:191) [org.eclipse.ui.navigator_3.5.500.v20140828-1000.jar:na]
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:854) [org.eclipse.jface_3.11.0.v20140822-0942.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20140819-0835.jar:na]
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:50) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:178) [org.eclipse.jface_3.11.0.v20140822-0942.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:851) [org.eclipse.jface_3.11.0.v20140822-0942.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1168) [org.eclipse.jface_3.11.0.v20140822-0942.jar:na]
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:477) [org.eclipse.ui.navigator_3.5.500.v20140828-1000.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer$6.handleOpen(StructuredViewer.java:1275) [org.eclipse.jface_3.11.0.v20140822-0942.jar:na]
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:278) [org.eclipse.jface_3.11.0.v20140822-0942.jar:na]
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:272) [org.eclipse.jface_3.11.0.v20140822-0942.jar:na]
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:313) [org.eclipse.jface_3.11.0.v20140822-0942.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.104.0.v20140916-1147.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353) [org.eclipse.swt.win32.win32.x86_64_3.104.0.v20140916-1147.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) [org.eclipse.swt.win32.win32.x86_64_3.104.0.v20140916-1147.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172) [org.eclipse.swt.win32.win32.x86_64_3.104.0.v20140916-1147.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761) [org.eclipse.swt.win32.win32.x86_64_3.104.0.v20140916-1147.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140908-1525.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337) [org.eclipse.core.databinding.observable_1.4.1.v20140910-2107.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140908-1525.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.2.0.v20140905-1352.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:637) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337) [org.eclipse.core.databinding.observable_1.4.1.v20140910-2107.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:580) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.107.0.v20140917-1423.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:141) [org.eclipse.ui.ide.application_1.0.600.v20140909-1818.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.100.v20140909-1314.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.100.v20140909-1314.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380) [org.eclipse.osgi_3.10.100.v20140909-1314.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235) [org.eclipse.osgi_3.10.100.v20140909-1314.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_67]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_67]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_67]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_67]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2015-01-12 13:32:57,423 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-12 13:32:57,510 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:28908
+2015-01-12 13:38:01,140 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:38:01,239 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\main\resources
+2015-01-12 13:38:01,243 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 13:38:01,252 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Gestion\src\test\resources
+2015-01-12 13:52:42,589 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-12 14:33:15,813 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 14:33:18,246 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:33:18,362 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:33:18,369 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:33:18,378 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:33:20,109 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_Interface/src
+2015-01-12 14:33:20,111 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Project_Interface/src/test/java because it overlaps with /Project_Interface/src
+2015-01-12 14:33:21,025 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-12 14:33:22,082 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 14:33:23,443 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:33:23,451 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:33:23,455 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:33:23,462 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:33:23,789 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 14:33:24,115 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_Interface/src
+2015-01-12 14:33:24,119 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Project_Interface/src/test/java because it overlaps with /Project_Interface/src
+2015-01-12 14:33:25,325 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2015-01-12 14:33:26,671 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:33:27,049 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:33:27,056 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:33:27,384 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:35:08,742 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 14:35:09,945 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-kernel/1.6.2/axis2-kernel-1.6.2.pom
+2015-01-12 14:35:10,107 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-kernel/1.6.2/axis2-kernel-1.6.2.pom
+2015-01-12 14:35:10,221 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-parent/1.6.2/axis2-parent-1.6.2.pom
+2015-01-12 14:35:10,390 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-parent/1.6.2/axis2-parent-1.6.2.pom
+2015-01-12 14:35:10,551 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/apache/8/apache-8.pom
+2015-01-12 14:35:10,649 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/apache/8/apache-8.pom
+2015-01-12 14:35:10,748 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-api/1.2.13/axiom-api-1.2.13.pom
+2015-01-12 14:35:10,920 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-api/1.2.13/axiom-api-1.2.13.pom
+2015-01-12 14:35:11,094 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-parent/1.2.13/axiom-parent-1.2.13.pom
+2015-01-12 14:35:11,185 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-parent/1.2.13/axiom-parent-1.2.13.pom
+2015-01-12 14:35:11,333 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-activation_1.1_spec/1.1/geronimo-activation_1.1_spec-1.1.pom
+2015-01-12 14:35:11,418 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-activation_1.1_spec/1.1/geronimo-activation_1.1_spec-1.1.pom
+2015-01-12 14:35:11,517 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-java5-flava/2.0/genesis-java5-flava-2.0.pom
+2015-01-12 14:35:11,620 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-java5-flava/2.0/genesis-java5-flava-2.0.pom
+2015-01-12 14:35:11,722 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-default-flava/2.0/genesis-default-flava-2.0.pom
+2015-01-12 14:35:11,812 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-default-flava/2.0/genesis-default-flava-2.0.pom
+2015-01-12 14:35:11,898 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/2.0/genesis-2.0.pom
+2015-01-12 14:35:11,996 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/2.0/genesis-2.0.pom
+2015-01-12 14:35:12,129 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1.pom
+2015-01-12 14:35:12,213 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1.pom
+2015-01-12 14:35:12,431 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/jaxen/jaxen/1.1.3/jaxen-1.1.3.pom
+2015-01-12 14:35:12,514 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/jaxen/jaxen/1.1.3/jaxen-1.1.3.pom
+2015-01-12 14:35:12,587 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.pom
+2015-01-12 14:35:12,661 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.pom
+2015-01-12 14:35:12,766 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.3/specs-1.3.pom
+2015-01-12 14:35:12,865 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.3/specs-1.3.pom
+2015-01-12 14:35:12,949 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.1/project-config-1.1.pom
+2015-01-12 14:35:13,029 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.1/project-config-1.1.pom
+2015-01-12 14:35:13,105 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.1/config-1.1.pom
+2015-01-12 14:35:13,242 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.1/config-1.1.pom
+2015-01-12 14:35:13,367 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.1/genesis-1.1.pom
+2015-01-12 14:35:13,456 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.1/genesis-1.1.pom
+2015-01-12 14:35:13,545 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.pom
+2015-01-12 14:35:13,618 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.pom
+2015-01-12 14:35:13,690 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j-project/0.7.2/apache-mime4j-project-0.7.2.pom
+2015-01-12 14:35:13,772 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j-project/0.7.2/apache-mime4j-project-0.7.2.pom
+2015-01-12 14:35:13,851 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/james/james-project/1.8/james-project-1.8.pom
+2015-01-12 14:35:14,000 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/james/james-project/1.8/james-project-1.8.pom
+2015-01-12 14:35:14,102 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-impl/1.2.13/axiom-impl-1.2.13.pom
+2015-01-12 14:35:14,189 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-impl/1.2.13/axiom-impl-1.2.13.pom
+2015-01-12 14:35:14,348 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.2/geronimo-ws-metadata_2.0_spec-1.1.2.pom
+2015-01-12 14:35:14,420 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.2/geronimo-ws-metadata_2.0_spec-1.1.2.pom
+2015-01-12 14:35:14,490 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom
+2015-01-12 14:35:14,579 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom
+2015-01-12 14:35:14,647 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom
+2015-01-12 14:35:14,741 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom
+2015-01-12 14:35:14,829 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom
+2015-01-12 14:35:14,926 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom
+2015-01-12 14:35:15,006 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom
+2015-01-12 14:35:15,182 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom
+2015-01-12 14:35:15,256 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1.pom
+2015-01-12 14:35:15,337 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1.pom
+2015-01-12 14:35:15,403 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.2/specs-1.2.pom
+2015-01-12 14:35:15,478 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.2/specs-1.2.pom
+2015-01-12 14:35:15,741 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.2/commons-fileupload-1.2.pom
+2015-01-12 14:35:15,845 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.2/commons-fileupload-1.2.pom
+2015-01-12 14:35:15,919 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/1/commons-parent-1.pom
+2015-01-12 14:35:16,079 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/1/commons-parent-1.pom
+2015-01-12 14:35:16,195 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/wsdl4j/wsdl4j/1.6.2/wsdl4j-1.6.2.pom
+2015-01-12 14:35:16,343 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/wsdl4j/wsdl4j/1.6.2/wsdl4j-1.6.2.pom
+2015-01-12 14:35:16,426 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/commons/schema/XmlSchema/1.4.7/XmlSchema-1.4.7.pom
+2015-01-12 14:35:16,510 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/commons/schema/XmlSchema/1.4.7/XmlSchema-1.4.7.pom
+2015-01-12 14:35:16,596 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/neethi/neethi/3.0.2/neethi-3.0.2.pom
+2015-01-12 14:35:16,674 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/neethi/neethi/3.0.2/neethi-3.0.2.pom
+2015-01-12 14:35:16,755 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/woden/woden-api/1.0M9/woden-api-1.0M9.pom
+2015-01-12 14:35:16,901 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/woden/woden-api/1.0M9/woden-api-1.0M9.pom
+2015-01-12 14:35:16,975 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/woden/woden/1.0M9/woden-1.0M9.pom
+2015-01-12 14:35:17,077 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/woden/woden/1.0M9/woden-1.0M9.pom
+2015-01-12 14:35:17,222 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/woden/woden-impl-dom/1.0M9/woden-impl-dom-1.0M9.pom
+2015-01-12 14:35:17,315 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/woden/woden-impl-dom/1.0M9/woden-impl-dom-1.0M9.pom
+2015-01-12 14:35:17,387 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/woden/woden-impl-commons/1.0M9/woden-impl-commons-1.0M9.pom
+2015-01-12 14:35:17,743 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/woden/woden-impl-commons/1.0M9/woden-impl-commons-1.0M9.pom
+2015-01-12 14:35:17,834 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.pom
+2015-01-12 14:35:17,945 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.pom
+2015-01-12 14:35:18,162 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-kernel/1.6.2/axis2-kernel-1.6.2.jar
+2015-01-12 14:35:18,714 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-kernel/1.6.2/axis2-kernel-1.6.2.jar
+2015-01-12 14:35:18,739 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-api/1.2.13/axiom-api-1.2.13.jar
+2015-01-12 14:35:19,065 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-api/1.2.13/axiom-api-1.2.13.jar
+2015-01-12 14:35:19,089 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-activation_1.1_spec/1.1/geronimo-activation_1.1_spec-1.1.jar
+2015-01-12 14:35:20,720 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-activation_1.1_spec/1.1/geronimo-activation_1.1_spec-1.1.jar
+2015-01-12 14:35:20,745 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1.jar
+2015-01-12 14:35:20,913 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1.jar
+2015-01-12 14:35:21,232 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/jaxen/jaxen/1.1.3/jaxen-1.1.3.jar
+2015-01-12 14:35:21,684 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/jaxen/jaxen/1.1.3/jaxen-1.1.3.jar
+2015-01-12 14:35:21,710 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.jar
+2015-01-12 14:35:22,365 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.jar
+2015-01-12 14:35:22,391 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.jar
+2015-01-12 14:35:22,514 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.jar
+2015-01-12 14:35:22,539 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-impl/1.2.13/axiom-impl-1.2.13.jar
+2015-01-12 14:35:22,723 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/commons/axiom/axiom-impl/1.2.13/axiom-impl-1.2.13.jar
+2015-01-12 14:35:22,747 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.2/geronimo-ws-metadata_2.0_spec-1.1.2.jar
+2015-01-12 14:35:22,941 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.2/geronimo-ws-metadata_2.0_spec-1.1.2.jar
+2015-01-12 14:35:22,964 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1.jar
+2015-01-12 14:35:23,164 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1.jar
+2015-01-12 14:35:23,189 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar
+2015-01-12 14:35:23,385 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar
+2015-01-12 14:35:23,412 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar
+2015-01-12 14:35:23,706 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar
+2015-01-12 14:35:23,733 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.jar
+2015-01-12 14:35:24,328 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.jar
+2015-01-12 14:35:24,352 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.2/commons-fileupload-1.2.jar
+2015-01-12 14:35:24,442 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.2/commons-fileupload-1.2.jar
+2015-01-12 14:35:24,466 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/wsdl4j/wsdl4j/1.6.2/wsdl4j-1.6.2.jar
+2015-01-12 14:35:24,630 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/wsdl4j/wsdl4j/1.6.2/wsdl4j-1.6.2.jar
+2015-01-12 14:35:24,654 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/commons/schema/XmlSchema/1.4.7/XmlSchema-1.4.7.jar
+2015-01-12 14:35:24,807 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/commons/schema/XmlSchema/1.4.7/XmlSchema-1.4.7.jar
+2015-01-12 14:35:24,830 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/neethi/neethi/3.0.2/neethi-3.0.2.jar
+2015-01-12 14:35:24,939 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/neethi/neethi/3.0.2/neethi-3.0.2.jar
+2015-01-12 14:35:24,966 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/woden/woden-api/1.0M9/woden-api-1.0M9.jar
+2015-01-12 14:35:25,432 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/woden/woden-api/1.0M9/woden-api-1.0M9.jar
+2015-01-12 14:35:25,457 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/woden/woden-impl-dom/1.0M9/woden-impl-dom-1.0M9.jar
+2015-01-12 14:35:25,715 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/woden/woden-impl-dom/1.0M9/woden-impl-dom-1.0M9.jar
+2015-01-12 14:35:25,741 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/woden/woden-impl-commons/1.0M9/woden-impl-commons-1.0M9.jar
+2015-01-12 14:35:25,925 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/woden/woden-impl-commons/1.0M9/woden-impl-commons-1.0M9.jar
+2015-01-12 14:35:25,951 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.jar
+2015-01-12 14:35:26,458 [Worker-40] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.jar
+2015-01-12 14:35:34,512 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:35:34,651 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:35:34,656 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:35:34,665 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:35:37,566 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:35:37,573 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:35:37,576 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:35:37,583 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:36:46,100 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 14:36:46,840 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-adb/1.6.2/axis2-adb-1.6.2.pom
+2015-01-12 14:36:46,958 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-adb/1.6.2/axis2-adb-1.6.2.pom
+2015-01-12 14:36:47,056 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-activation_1.1_spec/1.0.2/geronimo-activation_1.1_spec-1.0.2.pom
+2015-01-12 14:36:47,245 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-activation_1.1_spec/1.0.2/geronimo-activation_1.1_spec-1.0.2.pom
+2015-01-12 14:36:47,439 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-adb/1.6.2/axis2-adb-1.6.2.jar
+2015-01-12 14:36:48,135 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-adb/1.6.2/axis2-adb-1.6.2.jar
+2015-01-12 14:36:48,176 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-activation_1.1_spec/1.0.2/geronimo-activation_1.1_spec-1.0.2.jar
+2015-01-12 14:36:48,673 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-activation_1.1_spec/1.0.2/geronimo-activation_1.1_spec-1.0.2.jar
+2015-01-12 14:36:50,034 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:36:50,319 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:36:50,325 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:36:50,335 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:36:52,766 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:36:52,897 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:36:52,900 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:36:52,908 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:36:54,490 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 14:36:55,609 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:36:55,750 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:36:55,759 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:36:55,816 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:37:08,644 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 14:37:09,700 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:37:09,841 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:37:09,846 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:37:09,858 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:37:12,589 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:37:12,598 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:37:12,602 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:37:12,614 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:44:14,013 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:44:14,191 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:44:14,197 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:44:14,211 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:44:20,824 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:44:20,834 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:44:20,838 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:44:20,849 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:44:55,725 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:44:55,737 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:44:55,741 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:44:55,751 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:46:15,209 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:46:15,219 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:46:15,224 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:46:15,235 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:47:02,196 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:47:02,207 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:47:02,211 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:47:02,223 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:47:58,052 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:47:58,063 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:47:58,071 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:47:58,081 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:48:28,113 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:48:28,124 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:48:28,130 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:48:28,143 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:48:35,202 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:48:35,368 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:48:35,372 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:48:35,381 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:49:13,387 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:49:13,398 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:49:13,404 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:49:13,417 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:49:21,058 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:49:21,070 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:49:21,075 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:49:21,089 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:49:40,212 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:49:40,221 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:49:40,226 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:49:40,237 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:49:44,679 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:49:44,692 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:49:44,697 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:49:44,711 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:50:54,664 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:50:54,677 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 14:50:54,683 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 14:50:54,696 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 14:53:31,761 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-12 14:53:31,943 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:30947
+2015-01-12 14:55:11,467 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}
+2015-01-12 14:59:34,998 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2015-01-12 14:59:35,085 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:31190
+2015-01-12 15:03:32,099 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:03:32,230 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:03:32,236 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:03:32,295 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:04:06,863 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:04:06,976 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:04:06,980 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:04:06,989 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:19:41,028 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:19:41,190 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:19:41,196 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:19:41,207 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:20:38,227 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:20:38,348 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:20:38,353 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:20:38,415 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:20:40,813 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:20:40,830 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:20:40,836 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:20:40,848 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:20:55,253 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:20:55,389 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:20:55,395 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:20:55,406 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:21:02,949 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:21:02,962 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:21:02,968 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:21:02,980 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:21:19,722 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:21:19,861 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:21:19,868 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:21:19,898 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:22:35,933 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:22:36,123 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:22:36,127 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:22:36,137 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:24:58,242 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:24:58,383 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:24:58,387 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:24:58,396 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:29:57,279 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:29:57,438 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:29:57,442 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:29:57,455 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:31:58,162 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:31:58,193 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:31:58,200 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:31:58,318 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:32:56,430 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 15:33:00,346 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-transport-local/1.6.2/axis2-transport-local-1.6.2.pom
+2015-01-12 15:33:00,436 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-transport-local/1.6.2/axis2-transport-local-1.6.2.pom
+2015-01-12 15:33:00,616 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-transport-local/1.6.2/axis2-transport-local-1.6.2.jar
+2015-01-12 15:33:00,785 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-transport-local/1.6.2/axis2-transport-local-1.6.2.jar
+2015-01-12 15:33:02,857 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:33:02,866 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:33:02,870 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:33:02,879 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:33:06,989 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:33:06,997 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:33:07,001 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:33:07,008 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:34:15,233 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 15:34:16,402 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:34:16,412 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:34:16,416 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:34:16,426 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:34:19,909 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:34:19,918 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:34:19,927 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:34:19,936 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:34:21,139 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 15:34:22,271 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:34:22,289 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:34:22,294 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:34:22,304 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:34:55,101 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 15:34:55,331 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-transport-http/1.6.2/axis2-transport-http-1.6.2.pom
+2015-01-12 15:34:55,385 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-transport-http/1.6.2/axis2-transport-http-1.6.2.pom
+2015-01-12 15:34:55,488 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.0/httpcore-4.0.pom
+2015-01-12 15:34:55,568 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.0/httpcore-4.0.pom
+2015-01-12 15:34:55,682 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.0/httpcomponents-core-4.0.pom
+2015-01-12 15:34:55,743 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.0/httpcomponents-core-4.0.pom
+2015-01-12 15:34:55,994 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-transport-http/1.6.2/axis2-transport-http-1.6.2.jar
+2015-01-12 15:34:56,227 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/axis2/axis2-transport-http/1.6.2/axis2-transport-http-1.6.2.jar
+2015-01-12 15:34:56,247 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.0/httpcore-4.0.jar
+2015-01-12 15:34:56,805 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.0/httpcore-4.0.jar
+2015-01-12 15:34:57,840 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:34:57,851 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:34:57,857 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:34:57,868 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:34:59,850 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project_Interface:Project_Interface:0.0.1 @ E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\pom.xml.
+2015-01-12 15:35:00,884 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:35:00,894 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:35:00,897 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:35:00,908 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:35:19,002 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:35:19,019 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:35:19,024 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:35:19,035 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:38:09,764 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:38:09,797 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:38:09,802 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:38:09,815 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:38:15,931 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:38:15,955 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:38:15,960 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:38:15,971 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:42:07,684 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:42:07,694 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:42:07,698 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:42:07,707 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:43:10,113 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:43:10,126 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:43:10,131 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:43:10,153 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:46:00,610 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:46:00,743 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:46:00,748 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:46:00,757 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:50:01,987 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:50:02,014 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:50:02,018 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:50:02,031 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:50:32,162 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:50:32,203 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:50:32,209 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:50:32,239 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:50:51,998 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:50:52,008 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:50:52,014 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:50:52,029 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:50:59,902 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:50:59,911 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:50:59,915 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:50:59,925 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:51:08,648 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:51:08,673 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:51:08,680 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:51:08,698 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:51:30,174 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:51:30,183 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:51:30,187 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:51:30,200 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:52:11,180 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:52:11,198 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:52:11,203 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:52:11,241 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:53:54,854 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:53:54,869 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:53:54,874 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:53:54,886 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:53:59,777 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:53:59,788 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:53:59,792 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:53:59,803 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:54:48,426 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:54:48,436 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:54:48,440 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:54:48,452 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:55:02,290 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:55:02,301 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:55:02,306 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:55:02,317 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:57:22,437 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:57:22,447 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:57:22,451 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:57:22,460 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:57:55,049 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:57:55,058 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:57:55,062 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:57:55,070 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 15:58:36,981 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:58:36,995 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 15:58:37,000 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 15:58:37,009 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:09:17,654 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:09:17,767 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:09:17,771 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:09:17,782 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:09:21,457 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:09:21,468 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:09:21,472 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:09:21,481 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:09:48,003 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:09:48,014 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:09:48,018 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:09:48,027 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:09:53,744 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:09:53,752 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:09:53,757 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:09:53,768 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:10:45,982 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:10:45,991 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:10:45,995 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:10:46,004 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:11:06,732 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:11:06,743 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:11:06,748 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:11:06,761 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:13:20,561 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:13:20,572 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:13:20,577 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:13:20,586 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:17:52,551 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:17:52,658 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:17:52,662 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:17:52,671 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:17:59,990 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:18:00,000 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:18:00,004 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:18:00,013 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:19:37,101 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:19:37,112 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:19:37,116 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:19:37,125 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:21:29,173 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:21:29,182 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:21:29,186 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:21:29,195 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:25:05,425 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:25:05,434 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:25:05,439 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:25:05,449 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:26:50,562 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:26:50,572 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:26:50,576 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:26:50,586 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:27:02,166 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:27:02,175 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:27:02,179 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:27:02,188 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:31:12,946 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:31:12,956 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:31:12,960 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:31:12,969 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:31:18,258 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:31:18,270 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:31:18,274 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:31:18,289 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:31:52,403 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:31:52,415 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:31:52,420 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:31:52,429 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:32:59,183 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:33:00,337 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:33:00,341 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:33:00,350 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:33:57,149 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:33:57,315 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:33:57,319 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:33:57,328 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:34:47,125 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:34:47,135 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:34:47,140 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:34:47,150 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:35:38,286 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:35:38,296 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:35:38,299 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:35:38,308 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:35:48,796 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:35:48,900 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:35:48,904 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:35:48,914 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:36:00,460 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:36:00,469 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:36:00,473 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:36:00,483 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:39:36,698 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:39:36,818 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:39:36,822 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:39:36,831 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:41:50,782 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:41:50,792 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:41:50,796 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:41:50,806 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:50:23,410 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:50:23,518 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:50:23,521 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:50:23,532 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:51:22,928 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:51:22,940 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:51:22,945 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:51:22,955 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:52:03,242 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:52:03,255 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:52:03,260 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:52:03,274 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:52:09,261 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:52:09,272 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:52:09,277 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:52:09,288 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:54:10,162 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:54:10,315 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:54:10,319 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:54:10,332 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:57:09,223 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:57:09,331 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:57:09,335 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:57:09,346 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:57:29,268 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:57:29,693 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:57:29,698 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:57:29,709 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:58:13,461 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:58:13,475 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:58:13,480 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:58:13,492 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:58:25,897 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:58:25,909 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:58:25,914 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:58:25,926 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:59:09,281 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:59:09,291 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:59:09,295 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:59:09,316 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 16:59:38,128 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:59:38,137 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 16:59:38,141 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 16:59:38,150 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:00:52,404 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:00:52,414 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:00:52,418 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:00:52,427 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:01:11,261 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:01:11,382 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:01:11,385 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:01:11,394 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:01:30,519 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:01:30,529 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:01:30,532 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:01:30,542 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:01:57,098 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:01:57,109 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:01:57,113 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:01:57,124 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:02:12,487 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:02:12,497 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:02:12,500 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:02:12,510 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:02:21,654 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:02:21,664 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:02:21,668 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:02:21,678 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:03:05,396 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:03:05,406 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:03:05,410 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:03:05,419 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:03:55,131 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:03:55,242 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:03:55,246 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:03:55,255 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:04:28,923 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:04:28,939 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:04:28,943 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:04:28,954 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:05:17,110 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:05:17,119 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:05:17,124 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:05:17,132 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:06:38,662 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:06:38,672 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:06:38,676 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:06:38,684 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:10:24,988 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:10:24,998 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:10:25,003 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:10:25,013 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:11:33,219 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:11:33,230 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:11:33,235 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:11:33,244 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:12:52,492 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:12:52,502 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:12:52,506 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:12:52,515 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:24:09,754 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:24:09,906 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:24:09,910 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:24:09,919 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:25:38,414 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:25:38,432 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:25:38,438 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:25:38,451 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:25:58,428 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:25:58,437 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:25:58,441 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:25:58,449 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:26:22,494 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:26:22,505 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:26:22,511 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:26:22,521 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:26:50,537 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:26:50,546 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:26:50,550 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:26:50,558 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:28:45,563 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:28:45,573 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:28:45,577 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:28:45,589 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:30:05,647 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:30:05,656 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:30:05,660 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:30:05,669 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:30:55,880 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:30:55,890 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:30:55,894 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:30:55,903 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:33:11,485 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:33:11,497 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:33:11,502 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:33:11,514 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:34:28,091 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:34:28,099 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:34:28,103 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:34:28,112 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:38:55,663 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:38:55,676 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:38:55,681 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:38:55,695 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:39:26,250 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:39:26,258 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:39:26,263 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:39:26,273 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:39:55,409 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:39:55,418 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:39:55,421 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:39:55,430 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:41:34,621 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:41:34,630 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:41:34,634 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:41:34,642 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:43:57,611 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:43:57,620 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:43:57,624 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:43:57,641 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:44:19,116 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:44:19,144 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:44:19,148 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:44:19,157 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:46:46,533 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:46:46,542 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:46:46,546 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:46:46,554 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:47:38,597 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:47:38,608 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\main\resources
+2015-01-12 17:47:38,612 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 17:47:38,621 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Code\Java Learning\M2 Codes\WebService\Project_Interface\src\test\resources
+2015-01-12 17:48:01,062 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}

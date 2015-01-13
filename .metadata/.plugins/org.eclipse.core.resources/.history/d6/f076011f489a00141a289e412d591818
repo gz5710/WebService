@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deploy xmlns="http://www.apache.org/ode/schemas/dd/2007/03" xmlns:demandeprestation.localhost="http://demandeprestation.localhost" xmlns:facturation.tmax.com="http://facturation.tmax.com" xmlns:gestion.tmax.com="http://gestion.tmax.com" xmlns:planification.tmax.com="http://planification.tmax.com">
+  <process name="demandeprestation.localhost:DemandePrestation">
+    <active>true</active>
+    <retired>false</retired>
+    <process-events generate="all"/>
+    <provide partnerLink="client">
+      <service name="demandeprestation.localhost:DemandePrestationService" port="DemandePrestationPort"/>
+    </provide>
+    <invoke partnerLink="PlanificationPL">
+      <service name="planification.tmax.com:ServicePlanification" port="ServicePlanificationHttpEndpoint"/>
+    </invoke>
+    <invoke partnerLink="GestionPL">
+      <service name="gestion.tmax.com:ServiceGestion" port="ServiceGestionHttpEndpoint"/>
+    </invoke>
+    <invoke partnerLink="FacturationPL">
+      <service name="facturation.tmax.com:ServiceFacturation" port="ServiceFacturationHttpEndpoint"/>
+    </invoke>
+  </process>
+</deploy>

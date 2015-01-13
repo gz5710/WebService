@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<definitions xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:plnk="http://docs.oasis-open.org/wsbpel/2.0/plnktype" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://demandeprestation.localhost" xmlns:vprop="http://docs.oasis-open.org/wsbpel/2.0/varprop" xmlns:wsdl="http://planification.tmax.com" xmlns:wsdl1="http://gestion.tmax.com" xmlns:wsdl2="http://facturation.tmax.com" name="DemandePrestation" targetNamespace="http://demandeprestation.localhost">
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     TYPE DEFINITION - List of types participating in this BPEL process 
+     The BPEL Designer will generate default request and response types
+     but you can define or import any XML Schema type and use them as part 
+     of the message types.
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->    
+    <plnk:partnerLinkType name="GestionPLT">
+    <plnk:role name="GestionPLRole" portType="wsdl1:ServiceGestionPortType"/>
+  </plnk:partnerLinkType>
+    <plnk:partnerLinkType name="FacturationPLT">
+    <plnk:role name="FacturationPLRole" portType="wsdl2:ServiceFacturationPortType"/>
+  </plnk:partnerLinkType>
+    <plnk:partnerLinkType name="PlanificationPLT">
+    <plnk:role name="PlanificationPLRole" portType="wsdl:ServicePlanificationPortType"/>
+  </plnk:partnerLinkType>
+    <import location="ServiceGestion.wsdl" namespace="http://gestion.tmax.com"/>
+    <import location="ServiceFacturation.wsdl" namespace="http://facturation.tmax.com"/>
+    <import location="ServicePlanification.wsdl" namespace="http://planification.tmax.com"/>
+    <types>
+        <schema xmlns="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://demandeprestation.localhost">
+
+            <element name="DemandePrestationRequest">
+                <complexType>
+                    <sequence>
+                    	<element name="name" type="string"/>
+                    	<element name="location" type="string"/>
+                    	<element name="email" type="string"/>
+                    </sequence>
+                </complexType>
+            </element>
+
+            <element name="DemandePrestationResponse">
+                <complexType>
+                    <sequence>
+                    	<element name="result" type="string"/>
+                    	<element name="compteRendu" type="string"/>
+                    	<element name="facture" type="string"/>
+                    </sequence>
+                </complexType>
+            </element>
+        </schema>
+    </types>
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MESSAGE TYPE DEFINITION - Definition of the message types used as 
+     part of the port type defintions
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->    
+    <message name="DemandePrestationRequestMessage">
+        <part element="tns:DemandePrestationRequest" name="payload"/>
+    </message>
+    <message name="DemandePrestationResponseMessage">
+        <part element="tns:DemandePrestationResponse" name="payload"/>
+    </message>
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     PORT TYPE DEFINITION - A port type groups a set of operations into
+     a logical service unit.
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->    
+
+    <!-- portType implemented by the DemandePrestation BPEL process -->
+    <portType name="DemandePrestation">
+        <operation name="process">
+            <input message="tns:DemandePrestationRequestMessage"/>
+            <output message="tns:DemandePrestationResponseMessage"/>
+        </operation>
+    </portType>   
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     PARTNER LINK TYPE DEFINITION
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->    
+    <plnk:partnerLinkType name="DemandePrestation">
+        <plnk:role name="DemandePrestationProvider" portType="tns:DemandePrestation"/>
+    </plnk:partnerLinkType>
+    
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     BINDING DEFINITION - Defines the message format and protocol details
+     for a web service.
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <binding name="DemandePrestationBinding" type="tns:DemandePrestation">
+    	<soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    	<operation name="process">
+    		<soap:operation soapAction="http://demandeprestation.localhost/process"/>
+    		<input>
+    			<soap:body use="literal"/>
+    		</input>
+    		<output>
+    			<soap:body use="literal"/>
+    		</output>
+    	</operation>
+    </binding>
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     SERVICE DEFINITION - A service groups a set of ports into
+     a service unit.
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <service name="DemandePrestationService">
+    	<port binding="tns:DemandePrestationBinding" name="DemandePrestationPort">
+    		<soap:address location="http://localhost:8080/ode/processes/DemandePrestation"/>
+    	</port>
+    </service>
+</definitions>

@@ -1,0 +1,45 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from FirstWSService WSDL service -->
+
+  <service name="FirstWS" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://first.com"/>
+      <parameter name="wsdlServiceElement" value="FirstWSService"/>
+      <parameter name="schemaQualified" value="http://first.com,http://model.com"/>
+      <parameter name="wsdlServicePort" value="FirstWS"/>
+      <parameter name="className" value="com.first.FirstWSSoapBindingImpl"/>
+      <parameter name="wsdlPortType" value="FirstWS"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation name="checkCredit" qname="operNS:checkCredit" xmlns:operNS="http://first.com" returnQName="retNS:checkCreditReturn" xmlns:retNS="http://first.com" returnType="rtns:ReturnedStatus" xmlns:rtns="http://model.com" soapAction="" >
+        <parameter qname="pns:userInfo" xmlns:pns="http://first.com" type="tns:UserInfo" xmlns:tns="http://model.com"/>
+      </operation>
+      <parameter name="allowedMethods" value="checkCredit"/>
+
+      <typeMapping
+        xmlns:ns="http://model.com"
+        qname="ns:ReturnedStatus"
+        type="java:com.model.ReturnedStatus"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://model.com"
+        qname="ns:UserInfo"
+        type="java:com.model.UserInfo"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+  </service>
+</deployment>

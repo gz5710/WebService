@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package com.tmax.client;
+
+import localhost.demandeprestation.DemandePrestationRequest;
+
+/**
+ * @author Bruce GONG
+ *
+ */
+public class Tester {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DemandePrestationRequest dp = new DemandePrestationRequest();
+	}
+
+}

@@ -1,0 +1,116 @@
+/**
+ * 
+ */
+package com.tmax.client;
+
+import java.awt.Dimension;
+import java.awt.GridLayout;
+import java.awt.HeadlessException;
+import java.rmi.RemoteException;
+
+import javax.swing.BoxLayout;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
+import org.apache.axis2.AxisFault;
+
+import localhost.demandeprestation.DemandePrestationRequest;
+import localhost.demandeprestation.DemandePrestationResponse;
+import localhost.demandeprestation.DemandePrestationStub;
+
+/**
+ * @author Bruce GONG
+ *
+ */
+public class Client extends JFrame {
+	
+	public static DemandePrestationResponse getService(String name, String location, String email){
+		DemandePrestationRequest dpr = new DemandePrestationRequest();
+		dpr.setName(name);
+		dpr.setLocation(location);
+		dpr.setEmail(email);
+		DemandePrestationStub dpStub;
+		DemandePrestationResponse dpRes=null;
+		try {
+			dpStub = new DemandePrestationStub();
+			dpRes = dpStub.process(dpr);
+			//System.out.println(dpRes.getCompteRendu() + dpRes.getFacture() + dpRes.getResult());
+			return dpRes;
+		} catch (AxisFault e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (RemoteException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return dpRes;
+	}
+
+	private JPanel jpanel;
+	private JLabel jlabName;
+	private JLabel jlabLocation;
+	private JLabel jlabEmail;
+	private JTextField jtxtName;
+	private JTextField jtxtLocation;
+	private JTextField jtxtEmail;
+	private JButton jbtn;
+	private JLabel jlabResult;
+	
+	public Client() throws HeadlessException {
+		super();
+		// TODO Auto-generated constructor stub
+		//initialization of components
+		this.jpanel = new JPanel();
+		this.jlabName = new JLabel("Qui");
+		this.jlabLocation = new JLabel("O¨´");
+		this.jlabEmail = new JLabel("Email");
+		
+		this.jtxtName = new JTextField();
+		this.jtxtLocation = new JTextField();
+		this.jtxtEmail = new JTextField();
+		
+		this.jbtn = new JButton("Demandez");
+		
+		this.jlabResult = new JLabel();
+		
+		//configurations of components
+		Dimension disLab = new Dimension(180, 30);
+		Dimension disTxt = new Dimension(200, 30);
+		this.jlabName.setPreferredSize(disLab);
+		this.jlabLocation.setPreferredSize(disLab);
+		this.jlabEmail.setPreferredSize(disLab);
+		this.jtxtName.setPreferredSize(disTxt);
+		this.jtxtLocation.setPreferredSize(disTxt);
+		this.jtxtEmail.setPreferredSize(disTxt);
+		
+		//add all the components on frame
+		this.jpanel.add(jlabName);
+		this.jpanel.add(jtxtName);
+		this.jpanel.add(jlabLocation);
+		this.jpanel.add(jtxtLocation);
+		this.jpanel.add(jlabEmail);
+		this.jpanel.add(jtxtEmail);
+		this.jpanel.add(jbtn);
+		this.jpanel.add(jlabResult);
+		jpanel.setLayout(new GridLayout(2,3));
+		this.add(jpanel);
+		
+		//configurations of frame
+		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+		this.setTitle("Demander une Prestation");
+		this.setSize(800, 500);
+		this.setFont(getFont());
+		this.setLocation(300, 100);
+		this.setLayout(new GridLayout(1,1));
+		this.setResizable(false);
+		this.setVisible(true);
+	}
+	
+	public static void main(String[] args){
+		Client client = new Client();
+	}
+	
+}

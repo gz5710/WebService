@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:ns1="http://org.apache.axis2/xsd" xmlns:ns="http://facturation.tmax.com" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:ax21="http://facturation.tmax.com/xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://facturation.tmax.com">
+    <wsdl:documentation>ServiceFacturation</wsdl:documentation>
+    <wsdl:types>
+        <xs:schema xmlns:ax22="http://facturation.tmax.com/xsd" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://facturation.tmax.com">
+            <xs:import namespace="http://facturation.tmax.com/xsd"/>
+            <xs:element name="getResult">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="compteRendu" nillable="true" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="getResultResponse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="return" nillable="true" type="ax21:Result"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:schema>
+        <xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://facturation.tmax.com/xsd">
+            <xs:complexType name="Result">
+                <xs:sequence>
+                    <xs:element minOccurs="0" name="compteRendu" nillable="true" type="xs:string"/>
+                    <xs:element minOccurs="0" name="facture" nillable="true" type="xs:string"/>
+                </xs:sequence>
+            </xs:complexType>
+        </xs:schema>
+    </wsdl:types>
+    <wsdl:message name="getResultRequest">
+        <wsdl:part name="parameters" element="ns:getResult"/>
+    </wsdl:message>
+    <wsdl:message name="getResultResponse">
+        <wsdl:part name="parameters" element="ns:getResultResponse"/>
+    </wsdl:message>
+    <wsdl:portType name="ServiceFacturationPortType">
+        <wsdl:operation name="getResult">
+            <wsdl:input message="ns:getResultRequest" wsaw:Action="urn:getResult"/>
+            <wsdl:output message="ns:getResultResponse" wsaw:Action="urn:getResultResponse"/>
+        </wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="ServiceFacturationSoap11Binding" type="ns:ServiceFacturationPortType">
+        <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"/>
+        <wsdl:operation name="getResult">
+            <soap:operation soapAction="urn:getResult" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:binding name="ServiceFacturationSoap12Binding" type="ns:ServiceFacturationPortType">
+        <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"/>
+        <wsdl:operation name="getResult">
+            <soap12:operation soapAction="urn:getResult" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap12:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:binding name="ServiceFacturationHttpBinding" type="ns:ServiceFacturationPortType">
+        <http:binding verb="POST"/>
+        <wsdl:operation name="getResult">
+            <http:operation location="getResult"/>
+            <wsdl:input>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:input>
+            <wsdl:output>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:service name="ServiceFacturation">
+        <wsdl:port name="ServiceFacturationHttpSoap11Endpoint" binding="ns:ServiceFacturationSoap11Binding">
+            <soap:address location="http://localhost:8080/axis2/services/ServiceFacturation.ServiceFacturationHttpSoap11Endpoint/"/>
+        </wsdl:port>
+        <wsdl:port name="ServiceFacturationHttpSoap12Endpoint" binding="ns:ServiceFacturationSoap12Binding">
+            <soap12:address location="http://localhost:8080/axis2/services/ServiceFacturation.ServiceFacturationHttpSoap12Endpoint/"/>
+        </wsdl:port>
+        <wsdl:port name="ServiceFacturationHttpEndpoint" binding="ns:ServiceFacturationHttpBinding">
+            <http:address location="http://localhost:8080/axis2/services/ServiceFacturation.ServiceFacturationHttpEndpoint/"/>
+        </wsdl:port>
+    </wsdl:service>
+</wsdl:definitions>
